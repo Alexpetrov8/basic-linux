@@ -1,0 +1,3 @@
+#!bin/sh
+
+coredumpctl debug
